@@ -10,6 +10,13 @@
     <p>Estoy empezando mi camino en el desarrollo web. Actualmente curso una formación sobre **Lenguajes de programación web** a través de eFundae, donde estoy aprendiendo los fundamentos de HTML y CSS.
 
 Este repositorio es mi primer portfolio, donde iré subiendo los proyectos que vaya realizando a lo largo del curso y de mi aprendizaje.</p>
+        <h3>📚 En formación</h3>
+        <p>Estoy aprendiendo sobre:</p>
+    <ul>
+        <li>Estructura de páginas web.</li>
+        <li>Selectores y propiedades CSS.</li>
+        <li>Buenas prácticas de codificación.</li>
+    </ul>
     <h2>🧩 Proyecto 1 | Modificación de una página web existente</h2>
     <p>Como primer ejercicio práctico, trabajé sobre el código HTML de la página de Wikipedia.</p>
     <ul>
@@ -22,12 +29,5 @@ Este repositorio es mi primer portfolio, donde iré subiendo los proyectos que v
     <ul>
         <li>HTML</li>
         <li>CSS</li>
-    </ul>
-        <h3>📚 En formación</h3>
-        <p>Estoy aprendiendo sobre</p>
-    <ul>
-        <li>Estructura de páginas web.</li>
-        <li>Selectores y propiedades CSS.</li>
-        <li>Buenas prácticas de codificación.</li>
     </ul>
 </body>
