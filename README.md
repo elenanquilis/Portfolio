@@ -42,4 +42,4 @@ I’ll keep updating this portfolio with more projects as I progress.
 
 ## 📫 Contact
 
-If you’d like to follow my learning journey or have any suggestions, feel free to reach out through GitHub.
+If you’d like to follow my learning journey or have any suggestions, feel free to reach out through GitHub or my LinkedIn account https://www.linkedin.com/in/elena-nunez-quilis/.
