@@ -1,45 +1,33 @@
-# Portfolio
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Portfolio de Elena Núñez</title>
+</head>
+</html>
+<body>
+    <h1>¡Bienvenido a mi portfolio!</h1>
+    <h2>Soy Elena Núñez</h2>
+    <p>Estoy empezando mi camino en el desarrollo web. Actualmente curso una formación sobre **Lenguajes de programación web** a través de eFundae, donde estoy aprendiendo los fundamentos de HTML y CSS.
 
-# 👋 Hi! I'm Elena Núñez
-
-I'm just starting out in web development. I'm currently taking an **eFundae course on Web Programming Languages**, with which I want to master the world of programming.
-
-This repository is my first portfolio, where I'll be uploading the projects I complete throughout my training and learning journey.
-
----
-
-## 🧩 Project 1: Editing an existing web page
-
-As a first practical exercise, I worked on the HTML code of a Wikipedia page.
-
-### ✔️ Goals:
-- Identify the structure of a web page using HTML.
-- Modify titles, paragraphs, and colors using HTML and CSS.
-- Understand how CSS styles affect layout and design.
-
-### 🔗 Project link:
-[View the full project on GitHub](https://github.com/elenanquilis/Portfolio.git)
-
----
-
-## 🛠️ Technologies used
-
-- HTML
-- CSS
-
----
-
-## 📚 Currently learning
-
-I'm focusing on:
-- Web page structure
-- CSS selectors and properties
-- Clean and readable code practices
-
-I’ll keep updating this portfolio with more projects as I progress.
-
----
-
-## 📫 Contact
-
-If you’d like to follow my learning journey or have any suggestions, feel free to reach out through GitHub or my [LinkedIn account](https://www.linkedin.com/in/elena-nunez-quilis/).
+Este repositorio es mi primer portfolio, donde iré subiendo los proyectos que vaya realizando a lo largo del curso y de mi aprendizaje.</p>
+    <h2>🧩 Proyecto 1 | Modificación de una página web existente</h2>
+    <p>Como primer ejercicio práctico, trabajé sobre el código HTML de la página de Wikipedia.</p>
+    <ul>
+        <li>Identificar la estructura del HTML.</li>
+        <li>Modificar títulos, párrafos y colores usando HTML y CSS.</li>
+        <li>Entender cómo los estilos afectan a la presentación del contenido.</li>
+    </ul>
+    <a href="https://github.com/elenanquilis/Portfolio.git" target="_blank">Descubre el código que he modificado en mi portfolio de GitHub.</a>
+    <h3>Tecnologías utilizadas</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+    </ul>
+        <h3>📚 En formación</h3>
+        <p>Estoy aprendiendo sobre</p>
+    <ul>
+        <li>Estructura de páginas web.</li>
+        <li>Selectores y propiedades CSS.</li>
+        <li>Buenas prácticas de codificación.</li>
+    </ul>
+</body>
