@@ -24,7 +24,9 @@ Este repositorio es mi primer portfolio, donde iré subiendo los proyectos que v
         <li>Modificar títulos, párrafos y colores usando HTML y CSS.</li>
         <li>Entender cómo los estilos afectan a la presentación del contenido.</li>
     </ul>
-    <a href="https://github.com/elenanquilis/Portfolio/blob/1c631cf4e1f3d78c30d1d55ca114945260e976e5/Wikipedia%20-%20Changes%20on%20HTML%20and%20CSS" target="_blank">Descubre el código que he modificado en mi portfolio de GitHub.</a>
+    <a href="https://github.com/elenanquilis/Portfolio/blob/1c631cf4e1f3d78c30d1d55ca114945260e976e5/Wikipedia%20-%20Changes%20on%20HTML%20and%20CSS" target="_blank">Descubre el código que he modificado en mi portfolio de GitHub</a>
+    <br><br>
+    <a href="https://github.com/elenanquilis/Portfolio/blob/935f40bcbc3df09bba34081e2ab64236cec74074/Portfolio.html" target="_blank">También puedes ver mi portfolio guardado como documento .html</a>
     <h3>Tecnologías utilizadas</h3>
     <ul>
         <li>HTML</li>
