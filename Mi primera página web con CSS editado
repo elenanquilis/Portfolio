@@ -14,6 +14,7 @@
         font-family: Helvetica;
     }
         h3 {
+        margin-left: 10px;    
         color: #0052DA;
         font-family: Helvetica;
     }
@@ -23,7 +24,10 @@
         font-size: 14px;
     }
         li {
+            color: #11005A;
             font-style: italic;
+            font-family: Helvetica;
+            font-size: 14px;
         }
         img {
             position: static;
